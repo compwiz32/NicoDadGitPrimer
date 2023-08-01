@@ -4,7 +4,7 @@ The following image illustrates the workflow for using Git and GitHub to create 
 Community blog. The steps shown in red are a one-time action for each new repository you fork. The
 numbered steps (in black) are described in the table below.
 
-![Blog GitHub workflow](./media/GitHub-workflow/Blog-gitflow.png)
+![Blog GitHub workflow](./media/GitHub-workflow/NicoDadGitPrimer-gitflow.png)
 
 | Steps |     Description of steps     |                                                                                                                                                         Git command / GitHub actions                                                                                                                                                         |
 | ----- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
